@@ -1,3 +1,0 @@
-"Pro Angular"
-"ReactJs"
-"Pro Angular 18"
